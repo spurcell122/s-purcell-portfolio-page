@@ -5,11 +5,11 @@ html, body {
 body {
   color: darkgray;
   font-family: "Andale Mono", monospace;
-  background: #DDF7E3;
+  background: #ECF2FF;
 }
 
 h1 {
-  color: #DF2E38;
+  color: #3E54AC;
 }
 
 h2 {
@@ -17,13 +17,13 @@ h2 {
 }
 
 h3 {
-  color: #617143;
+  color: #655DBB;
 }
 
 ul {
-  color: #5D9C59;
+  color: #BFACE2;
 }
 
 p {
-  color: #5D9C59;
+  color: #BFACE2;
 }
