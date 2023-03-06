@@ -1,8 +1,29 @@
+html, body {
+  height: 720px;
+  width: 1280px;
+}
 body {
-  color: grey;
+  color: darkgray;
+  font-family: "Andale Mono", monospace;
+  background: #DDF7E3;
 }
 
-
 h1 {
-  color: green;
+  color: #DF2E38;
+}
+
+h2 {
+  color: black;  
+}
+
+h3 {
+  color: #617143;
+}
+
+ul {
+  color: #5D9C59;
+}
+
+p {
+  color: #5D9C59;
 }
